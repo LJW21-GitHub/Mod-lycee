@@ -5,6 +5,7 @@
 		"cost": 1,
 		"requiredTech": "Civil Service",
 		"uniques": [
+			"Only available <in cities without [Colonisé]>",
 			"Triggers a global alert upon completion",
 			"Can only be built [in capital]",
 			"[33]% [Production] [in all cities] <when above [0] [Colonial Token]>",
@@ -22,6 +23,7 @@
 		"cost": 1,
 		"requiredTech": "Civil Service",
 		"uniques": [
+			"Only available <in cities without [Empire colonial]>",
 			"Triggers a global alert upon completion",
 			"Can only be built [in capital]",
 			"Provides [1] [Colonial Token]",
