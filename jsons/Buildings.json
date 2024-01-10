@@ -24,6 +24,7 @@
 		"requiredTech": "Civil Service",
 		"uniques": [
 			"Only available <in cities without a [Empire colonial]>",
+			"Provides [1] [Colonial Token]",
 			"Triggers a global alert upon completion",
 			"Can only be built [in capital]",
 			"[-33]% [Production] [in all cities]",
