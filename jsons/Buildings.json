@@ -36,14 +36,13 @@
 	},
 	{
 		"name": "Ambassade Unseen Lands",
-		"culture": 1,
 		"cost": 120,
 		"hurryCostModifier": 40,
 		"maintenance": 2,
 		"uniques": [
-      		"Destroyed when the city is captured",
-			"Instantly consumes [1] [Unseen Lands Embassy]","Limited to [1] per Civilization",
-      		"Cannot be purchased",
+      			"Destroyed when the city is captured",
+			"Consumes [1] [Ambassade Unseen Lands]","Limited to [1] per Civilization",
+      			"Cannot be purchased",
 			"Unbuildable <for [Unseen Lands]>",
 			"Triggers a global alert upon completion"]
 	},
