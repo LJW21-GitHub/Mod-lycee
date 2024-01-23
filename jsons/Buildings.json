@@ -41,8 +41,10 @@
 		"maintenance": 2,
 		"uniques": [
       			"Destroyed when the city is captured",
-			"Consumes [1] [Ambassade Unseen Lands]","Limited to [1] per Civilization",
+			"Consumes [1] [Ambassade Unseen Lands]",
+			"Limited to [1] per Civilization",
       			"Cannot be purchased",
+			"[+15]% [Culture] [in all cities] <when above [-1] [Ambassade Unseen Lands]>",
 			"Unbuildable <for [Unseen Lands]>",
 			"Triggers a global alert upon completion"]
 	},
