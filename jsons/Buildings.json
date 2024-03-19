@@ -1,6 +1,18 @@
 [
 //////////////// COLONIES + AMBASSADES ////////////////
 	{
+		"name": "Ville coloniale",
+		"cost": 1,
+		"requiredTech": "Civil Service",
+		"uniques": [
+			"Nullifies [Happiness] [in this city]",
+			"Nullifies [Culture] [in this city]",
+			"Nullifies [Production] [in this city]",
+			"Nullifies Growth [in this city]",
+			"Unsellable",
+		]
+	},
+	{
 		"name": "Empire colonial",
 		"cost": 1,
 		"requiredTech": "Civil Service",
