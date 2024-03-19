@@ -220,7 +220,38 @@
 		"cost": 200,
 		"uniques": [
 			"[+7 Culture]",
-			"[+75]% [Culture]"
+			"[+75]% [Culture]",
+			"Requires a [Opera House] in all cities",
+			"Cost increases by [30] per owned city",
+			"Destroyed when the city is captured"
+		]
+	},
+	{
+		"name": "Maison de Volt",
+		"uniqueTo": "Disney",
+		"isNationalWonder": true,
+		"requiredTech": "Electricity",
+		"cityStrength": 50,
+		"cost": 450,
+		"uniques": [
+			"Destroyed when the city is captured"
+		]
+	},
+	{
+		"name": "Tour centrale",
+		"uniqueTo": "Disney",
+		"isNationalWonder": true,
+		"requiredTech": "Electricity",
+		"cost": 450,
+		"uniques": [
+			"Requires a [Maison de Volt] in at least [1] cities",
+			"Requires a [Palais de Tiana] in at least [1] cities",
+			"Requires a [Restaurant de Rémi] in at least [1] cities",
+			"[+50]% [Culture]",
+			"[+50]% [Science]",
+			"[+7 Happiness]",
+			"Triggers a global alert upon completion",
+			"Destroyed when the city is captured"
 		]
 	}
 ]
