@@ -7,7 +7,6 @@
 		"uniques": [
 			"Nullifies [Happiness] [in this city]",
 			"Nullifies [Culture] [in this city]",
-			"Nullifies [Production] [in this city]",
 			"Nullifies Growth [in this city]",
 			"Unsellable",
 		]
