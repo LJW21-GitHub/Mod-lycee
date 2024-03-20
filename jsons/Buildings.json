@@ -250,6 +250,7 @@
 		"cityStrength": 50,
 		"cost": 450,
 		"uniques": [
+			"Only available <in cities with a [Research Lab]>",
 			"Destroyed when the city is captured"
 		]
 	},
