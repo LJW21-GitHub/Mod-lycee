@@ -57,7 +57,7 @@
 			"Limited to [1] per Civilization",
       			"Cannot be purchased",
 			"Can only be built [in capital]",
-			"[+15]% [Culture] [in all cities] <when above [-1] [Ambassade Unseen Lands]>",
+			"[+5]% [Culture] [in all cities] <when above [-1] [Ambassade Unseen Lands]>",
 			"Unbuildable <for [Unseen Lands]>",
 			"Triggers a global alert upon completion"]
 	},
@@ -73,7 +73,7 @@
 			"Limited to [1] per Civilization",
       			"Cannot be purchased",
 			"Can only be built [in capital]",
-			"[+15]% [Culture] [in all cities] <when above [-1] [Ambassade Disney]>",
+			"[+5]% [Culture] [in all cities] <when above [-1] [Ambassade Disney]>",
 			"Unbuildable <for [Disney]>",
 			"Triggers a global alert upon completion"]
 	},
@@ -89,7 +89,7 @@
 			"Limited to [1] per Civilization",
       			"Cannot be purchased",
 			"Can only be built [in capital]",
-			"[+15]% [Culture] [in all cities] <when above [-1] [Ambassade Hallownest]>",
+			"[+5]% [Culture] [in all cities] <when above [-1] [Ambassade Hallownest]>",
 			"Unbuildable <for [Hallownest]>",
 			"Triggers a global alert upon completion"]
 	},
@@ -105,7 +105,7 @@
 			"Limited to [1] per Civilization",
       			"Cannot be purchased",
 			"Can only be built [in capital]",
-			"[+15]% [Culture] [in all cities] <when above [-1] [Ambassade Russie]>",
+			"[+5]% [Culture] [in all cities] <when above [-1] [Ambassade Russie]>",
 			"Unbuildable <for [Russia]>",
 			"Triggers a global alert upon completion"]
 	},
@@ -121,7 +121,7 @@
 			"Limited to [1] per Civilization",
       			"Cannot be purchased",
 			"Can only be built [in capital]",
-			"[+15]% [Culture] [in all cities] <when above [-1] [Ambassade Ukraine]>",
+			"[+5]% [Culture] [in all cities] <when above [-1] [Ambassade Ukraine]>",
 			"Unbuildable <for [Ukraine]>",
 			"Triggers a global alert upon completion"]
 	},
