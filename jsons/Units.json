@@ -206,7 +206,7 @@
 		"name": "Gourmand 2",
 		"uniqueTo": "Unseen Lands",
 		"unitType": "Slugcat",
-		"cost": 75,
+		"cost": 100,
 		"requiredTech": "Civil Service",
 		"obsoleteTech": "Metallurgy"
 		"movement": 2,
@@ -217,7 +217,7 @@
 		"name": "Gourmand 3",
 		"uniqueTo": "Unseen Lands",
 		"unitType": "Slugcat",
-		"cost": 75,
+		"cost": 200,
 		"requiredTech": "Metallurgy",
 		"obsoleteTech": "Replaceable Parts"
 		"movement": 2,
@@ -228,7 +228,7 @@
 		"name": "Gourmand 4",
 		"uniqueTo": "Unseen Lands",
 		"unitType": "Slugcat",
-		"cost": 75,
+		"cost": 300,
 		"requiredTech": "Replaceable Parts",
 		"obsoleteTech": "Mobile Tactics"
 		"movement": 2,
@@ -239,7 +239,7 @@
 		"name": "Gourmand 5",
 		"uniqueTo": "Unseen Lands",
 		"unitType": "Slugcat",
-		"cost": 75,
+		"cost": 400,
 		"requiredTech": "Mobile Tactics",
 		"movement": 2,
 		"strength": 75,
