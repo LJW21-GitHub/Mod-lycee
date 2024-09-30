@@ -141,7 +141,8 @@
 		"cost": 75,
 		"movement": 3,
 		"strength": 10,
-		"rangedStrength": 15
+		"rangedStrength": 15,
+		"upgradesTo": "Spearmaster 2"
 	},
 	{
 		"name": "Spearmaster 2",
@@ -152,7 +153,8 @@
 		"cost": 150,
 		"movement": 3,
 		"strength": 15,
-		"rangedStrength": 20
+		"rangedStrength": 20,
+		"upgradesTo": "Spearmaster 3"
 	},
 	{
 		"name": "Spearmaster 3",
@@ -164,7 +166,8 @@
 		"movement": 3,
 		"strength": 23,
 		"rangedStrength": 37,
-		"uniques": ["Ranged attacks may be performed over obstacles"]
+		"uniques": ["Ranged attacks may be performed over obstacles"],
+		"upgradesTo": "Spearmaster 4"
 	},
 	{
 		"name": "Spearmaster 4",
@@ -177,7 +180,8 @@
 		"movement": 3,
 		"strength": 50,
 		"rangedStrength": 65,
-		"uniques": ["Ranged attacks may be performed over obstacles"]
+		"uniques": ["Ranged attacks may be performed over obstacles"],
+		"upgradesTo": "Spearmaster 5"
 	},
 	{
 		"name": "Spearmaster 5",
@@ -197,10 +201,11 @@
 		"unitType": "Slugcat",
 		"cost": 75,
 		"requiredTech": "Trapping",
-		"obsoleteTech": "Civil Service"
+		"obsoleteTech": "Civil Service",
 		"movement": 2,
 		"strength": 7,
-		"uniques": ["[+100]% Strength <when defending>"]
+		"uniques": ["[+100]% Strength <when defending>"],
+		"upgradesTo": "Gourmand 2"
 	},
 	{
 		"name": "Gourmand 2",
@@ -208,10 +213,11 @@
 		"unitType": "Slugcat",
 		"cost": 100,
 		"requiredTech": "Civil Service",
-		"obsoleteTech": "Metallurgy"
+		"obsoleteTech": "Metallurgy",
 		"movement": 2,
 		"strength": 13,
-		"uniques": ["[+100]% Strength <when defending>"]
+		"uniques": ["[+100]% Strength <when defending>"],
+		"upgradesTo": "Gourmand 3"
 	},
 	{
 		"name": "Gourmand 3",
@@ -219,10 +225,11 @@
 		"unitType": "Slugcat",
 		"cost": 200,
 		"requiredTech": "Metallurgy",
-		"obsoleteTech": "Replaceable Parts"
+		"obsoleteTech": "Replaceable Parts",
 		"movement": 2,
 		"strength": 20,
-		"uniques": ["[+100]% Strength <when defending>"]
+		"uniques": ["[+100]% Strength <when defending>"],
+		"upgradesTo": "Gourmand 4"
 	},
 	{
 		"name": "Gourmand 4",
@@ -230,10 +237,11 @@
 		"unitType": "Slugcat",
 		"cost": 300,
 		"requiredTech": "Replaceable Parts",
-		"obsoleteTech": "Mobile Tactics"
+		"obsoleteTech": "Mobile Tactics",
 		"movement": 2,
 		"strength": 40,
-		"uniques": ["[+100]% Strength <when defending>"]
+		"uniques": ["[+100]% Strength <when defending>"],
+		"upgradesTo": "Gourmand 5"
 	},
 	{
 		"name": "Gourmand 5",
